@@ -48,7 +48,7 @@ It invloved reemoving the irrelevant columnss from the dataset including product
 
 Installing required packages 
 
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 
 
 
