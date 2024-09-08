@@ -46,7 +46,9 @@ https://data.world/datafiniti/wine-beer-and-liquor-reviews/workspace/file?filena
 # DATASET PREPROCESSING
 It invloved reemoving the irrelevant columnss from the dataset including product id, links etc.
 
+Installing required packages 
 
+pip install -r requirements.txt
 
 
 
