@@ -1,4 +1,4 @@
-# AryansICGMindfulPick
+# Product Classification through Images
 
 
 # Abstract
